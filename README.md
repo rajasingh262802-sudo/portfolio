@@ -58,7 +58,7 @@ My portfolio is hosted on **GitHub Pages**.
 
 ## 📬 Connect With Me
 
-- **GitHub:** [@nityansh19](https://github.com/nityansh19)
+- **GitHub:** [@rajasingh262802](https://github.com/rajasingh262802-sudo)
 - **Portfolio:** [Raja Singh Portfolio](https://rajasingh262802-sudo.github.io/portfolio/)
 
 ## 🎯 Career Objective
